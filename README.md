@@ -1,5 +1,11 @@
 # Project Work for Reproducible and Interactive Data Science
 
+
+
+https://mybinder.org/v2/gh/teokem/project-work-SamuelWiqvist/master
+
+
+
 This is an empty repository for the project work
 of the course "Reproducible and Interactive Data Science".
 
