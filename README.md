@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/teokem/project-work-SamuelWiqvist/master)
-
 # Project Work for Reproducible and Interactive Data Science
 
 This is an empty repository for the project work
