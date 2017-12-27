@@ -1,5 +1,5 @@
 PyPlot
-Distributions 
+Distributions 0.15.0
 StatsBase
 KernelDensity  
-DataFrames 
+DataFrames 0.10.1
